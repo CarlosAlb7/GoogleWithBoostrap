@@ -1,0 +1,30 @@
+body{
+    margin: auto;
+    
+}
+.centrar{
+    margin: 10px;
+    text-align: center;
+    position: relative;
+margin-top: 15px;
+}
+.Footer{
+    position: relative;
+    margin-top: 190px;
+}
+.texto1{
+   font-size: 15px;
+    text-align: center ;
+    font-style: normal;
+    font-family: sans-serif;
+   
+}
+.logo1{
+    text-align: center;
+    margin: 0px;
+    
+}
+.buscador{
+    height: auto;
+    width: auto;
+}
